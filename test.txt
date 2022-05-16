@@ -1,3 +1,4 @@
 Test text
 test branch2
 merge
+merge conflict
